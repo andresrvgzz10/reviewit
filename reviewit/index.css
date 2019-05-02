@@ -1,0 +1,11 @@
+.dropdown-menu-right { 
+    right: 0; 
+    left: auto; 
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }

@@ -1,0 +1,19 @@
+{
+  "name": "reviewit",
+  "version": "1.0.0",
+  "description": "Final Project Web",
+  "main": "login.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andrés Villanueva",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "firebase": "^5.11.0",
+    "firebase-admin": "^7.3.0",
+    "firebaseui": "^3.6.0",
+    "jquery": "^3.4.0",
+    "querystring": "^0.2.0"
+  }
+}
